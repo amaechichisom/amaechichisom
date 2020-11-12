@@ -27,13 +27,13 @@ var span = document.getElementsByClassName("close")[0];
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'amaechilegend@gmail.com',
-    pass: 'legendary'
+    user: 'isachisom@gmail.com',
+    pass: 'amaechiLEGEND@05512'
   }
 });
 
 var mailOptions = {
-  from: 'amaechilegend@gmail.com',
+  from: 'isachisom@gmail.com',
   to: `${email}`,
   subject: `${subject} from ${name}`,
   text: `${message}`
