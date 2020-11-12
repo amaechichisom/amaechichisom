@@ -1454,7 +1454,7 @@ body.offcanvas {
   width: 80%;
 }
 p{
-font-size:35px;
+font-size:15px;
 text-align:center;
 }
 @media screen and (max-width: 768px){
