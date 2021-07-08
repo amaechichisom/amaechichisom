@@ -1,9 +1,8 @@
 var nodemailer = require('nodemailer');
 var express = require('express');
-var app= express();
+var app = express();
 
 require("dotenv").config();
-
 
 var name = getElementById("name");
 var email = getElementById("email");
@@ -19,62 +18,56 @@ var btn = document.getElementById("myBtn");
 
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
-// app.post('/AMAECHI_CHISOM', function(req, res){
-//     var file = __dirname + '/downloads/Amaechi_Chisom.pdf';
-//     res.download(file);
-   
-// });
+// app.post('/AMAECHI_CHISOM', function(req, res){     var file = __dirname +
+// '/downloads/Amaechi_Chisom.pdf';     res.download(file); });
 
-
-var transporter = nodemailer.createTransport({
-  service: 'gmail',
-  auth: {
-    user: 'isachisom@gmail.com',
-    pass:  'legEND@05512'
-  }
+const transporter = nodemailer.createTransport({
+    service: 'Hotmail',
+    auth: {
+        user: 'developer-chisom@outlook.com',
+        pass: 'lEG@05512'
+    }
 });
 
 var mailOptions = {
-  from: 'isachisom@gmail.com',
-  to: `${email}`,
-  subject: `${subject} from ${name}`,
-  text: `${message}`
+    from: 'developer-chisom@outlook.com',
+    to: `${email}`,
+    subject: `${subject} from ${name}`,
+    text: `${message}`
 };
 
-transporter.sendMail(mailOptions, function(error, info){
-  if (error) {
-    modal.style.display = "block";
-    successemail.style.display = "none";
+transporter.sendMail(mailOptions, function (error, info) {
+    if (error) {
+        modal.style.display = "block";
+        successemail.style.display = "none";
 
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
 
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+        console.log(error);
+    } else {
+        modal.style.display = "block";
+        errormail.style.display = "none";
 
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-    console.log(error);
-  } else {
-    modal.style.display = "block";
-    errormail.style.display = "none";
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
 
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-    console.log('Email sent: ' + info.response);
-  }
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+        console.log('Email sent: ' + info.response);
+    }
 });
