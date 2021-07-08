@@ -2,6 +2,8 @@ var nodemailer = require('nodemailer');
 var express = require('express');
 var app= express();
 
+require("dotenv").config();
+
 
 var name = getElementById("name");
 var email = getElementById("email");
@@ -28,7 +30,7 @@ var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
     user: 'isachisom@gmail.com',
-    pass: 'legEND@05512'
+    pass:  process.env.password
   }
 });
 
