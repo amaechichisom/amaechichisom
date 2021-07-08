@@ -22,15 +22,15 @@ var span = document.getElementsByClassName("close")[0];
 // '/downloads/Amaechi_Chisom.pdf';     res.download(file); });
 
 var transporter = nodemailer.createTransport({
-    service: 'Hotmail',
+    service: 'gmail',
     auth: {
-        user: 'developer-chisom@outlook.com',
-        pass: 'LEG@05512'
+        user: 'isachisom@gmail.com',
+        pass: 'legEND@05512'
     }
 });
 
 var mailOptions = {
-    from: 'developer-chisom@outlook.com',
+    from: 'isachisom@gmail.com',
     to: `${email}`,
     subject: `${subject} from ${name}`,
     text: `${message}`
