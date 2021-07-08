@@ -21,7 +21,7 @@ var span = document.getElementsByClassName("close")[0];
 // app.post('/AMAECHI_CHISOM', function(req, res){     var file = __dirname +
 // '/downloads/Amaechi_Chisom.pdf';     res.download(file); });
 
-const transporter = nodemailer.createTransport({
+var transporter = nodemailer.createTransport({
     service: 'Hotmail',
     auth: {
         user: 'developer-chisom@outlook.com',
