@@ -11,7 +11,7 @@ var subject = getElementById("subject")
 var message = getElementById("message");
 // Get the modal
 var modal = document.getElementById("myModal");
-var success = document.getElementById("successemail");
+var successemail = document.getElementById("successemail");
 var errormail = document.getElementById("errormail");
 
 // Get the button that opens the modal
