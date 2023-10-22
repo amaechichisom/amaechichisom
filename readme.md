@@ -22,6 +22,6 @@ I'm passionate about delivering software that doesn't just meet expectations but
 
 ✨ Let's connect and collaborate:
 
-- LinkedIn: https://www.linkedin.com/in/amaechi-godfrey-chisom
+- LinkedIn: [Godfrey Amaechi](https://www.linkedin.com/in/amaechi-godfrey-chisom)
 - Twitter: [@amaechilegend](https://twitter.com/amaechilegend)
 - Email: amaechilegend@gmail.com
