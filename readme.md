@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Godfrey Amaechi
 
-I'm a **Lead Front-End Developer**, **Full-Stack Engineer**, and **Data Engineer** with a passion for building scalable, user-centric applications that solve real problems. With proven experience leading development teams and delivering high-impact solutions across fintech, telecom, AI, and tech communities, I thrive at the intersection of clean code, innovative design, data engineering, and business value.
+I'm a **Full-Stack Software Engineer**, and **Data Engineer** with a passion for building scalable, user-centric applications that solve real problems. With proven experience leading development teams and delivering high-impact solutions across fintech, telecom, AI, and tech communities, I thrive at the intersection of clean code, innovative design, data engineering, and business value.
 
 ## 🚀 What I Do Best
 
