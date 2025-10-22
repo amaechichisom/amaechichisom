@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Godfrey Amaechi
 
-I'm a **Core Software and Data Engineer** with a passion for building scalable, user-centric applications that solve real problems. With proven experience leading development teams and delivering high-impact solutions across fintech, telecom, and tech communities, I thrive at the intersection of clean code, innovative design, and business value.
+I'm a **Lead Front-End Developer**, **Full-Stack Engineer**, and **Data Engineer** with a passion for building scalable, user-centric applications that solve real problems. With proven experience leading development teams and delivering high-impact solutions across fintech, telecom, AI, and tech communities, I thrive at the intersection of clean code, innovative design, data engineering, and business value.
 
 ## 🚀 What I Do Best
 
-I specialize in crafting seamless digital experiences—from pixel-perfect UI components to robust back-end systems. Whether I'm architecting front-end solutions, integrating complex APIs, or optimizing cloud infrastructure, I'm driven by one goal: **delivering software that exceeds expectations**.
+I specialize in crafting seamless digital experiences—from pixel-perfect UI components to robust back-end systems and intelligent data pipelines. Whether I'm architecting front-end solutions, integrating complex APIs, building automated ETL pipelines, or working with LLMs and large-scale databases, I'm driven by one goal: **delivering software that exceeds expectations**.
 
 ## 💼 Technical Expertise
 
@@ -32,8 +32,15 @@ I specialize in crafting seamless digital experiences—from pixel-perfect UI co
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Fast API](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Data Engineering & AI
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
