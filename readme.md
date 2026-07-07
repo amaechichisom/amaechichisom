@@ -87,8 +87,7 @@ I specialize in crafting seamless digital experiences—from pixel-perfect UI co
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaechichisom&show_icons=true&theme=radical)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaechichisom&show_icons=true&theme=radical)](https://github.com/amaechichisom)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaechichisom&layout=compact&theme=radical)](https://github.com/amaechichisom)
 
 ## 🌟 Beyond the Code
