@@ -18,64 +18,9 @@
 
 Software Engineer with experience across backend, data, and full-stack development — building scalable APIs, data pipelines, and cloud-based systems in Python, Golang, and JavaScript/TypeScript. I currently own production infrastructure for a multi-container Docker stack on AWS EC2 (FastAPI, Celery, RabbitMQ, Redis, InfluxDB, Grafana, ChromaDB, nginx, ALB), and lead technical delivery on the **ENFSE platform** at Lagos Business School.
 
-Track record of improving performance, reliability, and code quality through clean architecture — plus hands-on experience with LLM integration, third-party service integrations, and modern DevOps tooling.
+Track record of improving performance, reliability, and code quality through clean architecture — plus hands-on experience with LLM integration, Web3, third-party service integrations, and modern DevOps tooling.
 
 📍 Lagos, Nigeria &nbsp;·&nbsp; 🗣️ English, French
-
-<br>
-
-## Experience
-
-<table>
-<tr>
-<td width="100%">
-
-**Cloud Data / Backend Engineer** — Eden AI · *South Africa (Remote)*
-<br><sub>Mar 2022 – Present</sub>
-
-Designing cost-optimized data architecture pipelines, deploying LLM-powered AI systems (WhatsApp & Telegram bots), and building reporting layers with DBT, Superset, and Power BI.
-
-`Python` `PySpark` `AWS` `Airflow` `SQL/MongoDB` `Airbyte` `FastAPI` `Terraform` `TensorFlow`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**Full-Stack Engineer** — Taxilit · *Remote (USA)*
-<br><sub>Aug 2023 – Present</sub>
-
-Delivered milestone work at a 95% on-schedule completion rate. Built clean-architecture MVC APIs using the repository pattern, cutting refactor time by 30%, and optimized core endpoints to ~1s average latency (25% efficiency gain).
-
-`Golang` `Google Maps API` `MongoDB` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**Backend Engineer** — iFlexx · *Remote (USA)*
-<br><sub>May 2021 – Aug 2023</sub>
-
-Kept engineering output aligned with business goals at a 90% delivery success rate. Built clean-architecture APIs that reduced production bugs by 35%, and optimized microservice/metrics pipelines to cut client-facing latency by 20%.
-
-`Golang` `MySQL` `Flutterwave` `Google Cloud Run` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**Full-Stack Developer** — LeadFort · *Remote (Nigeria)*
-<br><sub>Jan 2020 – May 2021</sub>
-
-Shipped secure, government-compliance-standard code that cut security issues by 40%. Ran daily Scrum meetings (+25% sprint consistency) and code reviews that lifted customer satisfaction by an estimated 20%.
-
-`React` `Node.js` `Express` `JavaScript` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -123,6 +68,13 @@ Shipped secure, government-compliance-standard code that cut security issues by 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Superset](https://img.shields.io/badge/Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
 
 **Databases**
 
