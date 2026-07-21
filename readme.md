@@ -1,110 +1,100 @@
-# 👋 Hi, I'm Godfrey Amaechi
+<div align="center">
 
-I'm a **Full-Stack Software Engineer**, and **Data Engineer** with a passion for building scalable, user-centric applications that solve real problems. With proven experience leading development teams and delivering high-impact solutions across fintech, telecom, AI, and tech communities, I thrive at the intersection of clean code, innovative design, data engineering, and business value.
+# Godfrey Amaechi
 
-## 🚀 What I Do Best
+### Full-Stack & Data Engineer · Production Systems Owner
 
-I specialize in crafting seamless digital experiences—from pixel-perfect UI components to robust back-end systems and intelligent data pipelines. Whether I'm architecting front-end solutions, integrating complex APIs, building automated ETL pipelines, or working with LLMs and large-scale databases, I'm driven by one goal: **delivering software that exceeds expectations**.
+*I build the systems that don't fall over — and the products that sit on top of them.*
 
-## 💼 Technical Expertise
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### Front-End Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br>
 
-### Styling & Animation
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+## About
 
-### Back-End & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Fast API](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
+I'm a software and data engineer based in Lagos, Nigeria, working across fintech, telecom, and edtech. Day to day I split my time between shipping product features and keeping production infrastructure healthy — I currently own a multi-container Docker stack on AWS EC2 (FastAPI, Celery, RabbitMQ, Redis, InfluxDB, Grafana, ChromaDB, nginx, behind an ALB), which puts me closer to SRE/Platform Engineer territory than a typical full-stack role.
 
-### Data Engineering & AI
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+I also handle technical delivery on the **ENFSE platform** at Lagos Business School, and build ETL pipelines and LLM-backed tooling on the data side.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<br>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## What I Actually Do
 
-### CMS & E-Commerce
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+| | |
+|---|---|
+| 🏗️ **Platform & Infra** | Design, deploy, and debug multi-service Docker stacks on AWS; own monitoring (Grafana/InfluxDB), queues (RabbitMQ/Celery), and load balancing (ALB/nginx) |
+| ⚙️ **Back-End** | APIs and services in Python (FastAPI, Flask) and Node.js (Express) |
+| 🎨 **Front-End** | React / Next.js / React Native, with Tailwind and Framer Motion for polish |
+| 📊 **Data Engineering** | ETL pipelines (Airflow, PySpark, Pandas), LLM integrations, vector databases (ChromaDB) |
+| 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Firebase |
 
-### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+<br>
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+## Tech Stack
 
-## 🎯 Core Strengths
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **Technical Leadership:** Successfully led multiple development teams, coordinating sprints, conducting code reviews, and ensuring on-time delivery
-- **Performance Optimization:** Expert in SEO implementation, performance tuning, and creating responsive, accessible interfaces
-- **Security-First Approach:** Implementing robust security measures and ensuring compliance with industry standards
-- **Cloud Architecture:** Designing and deploying scalable cloud infrastructure solutions
-- **Cross-Functional Collaboration:** Bridging the gap between design, development, and business teams
+**Front-End**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Stats
+**Back-End**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaechichisom&show_icons=true&theme=radical)](https://github.com/amaechichisom)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaechichisom&layout=compact&theme=radical)](https://github.com/amaechichisom)
+**Data & AI**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
-## 🌟 Beyond the Code
+**Infra & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
-When I'm not coding, I'm:
-- Mentoring aspiring developers and contributing to tech communities
-- Exploring emerging technologies like VR/AR and AI
-- Advocating for STEM education in Nigeria
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square&logo=databricks&logoColor=white)
 
-## 📫 Let's Connect
+<br>
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amaechi-godfrey-chisom)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/amaechilegend)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amaechilegend@gmail.com)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=amaechichisom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaechichisom&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-⭐️ From [amaechichisom](https://github.com/amaechichisom)
+</div>
+
+<br>
+
+## Beyond the Code
+
+Mentoring aspiring developers, contributing to tech communities, and advocating for STEM education in Nigeria — with a growing interest in VR/AR and applied AI.
+
+<br>
+
+<div align="center">
+
+*Always open to conversations about hard infra problems, data pipelines, or interesting product ideas.*
+
+</div>
